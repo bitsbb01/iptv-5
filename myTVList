@@ -11,6 +11,9 @@
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="China",TVB XING HE
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
@@ -145,15 +148,6 @@ https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" group-title="MALAYSIA", ZEE Actions
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-
-#EXTINF:-1 tvg-ID=ZeeTV.sg group-title=INDIA tvg-logo=https://i.postimg.cc/cJXhsZ1C/Zee-cinema-HD.jpg,Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=https://static.epg.best/in/ZeeCafe.in.png group-title=INDIA,Zee Cafe
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=https://static.epg.best/in/ZeeClassic.in.png group-title=INDIA,Zee Classic
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 
 #EXTINF:-1 group-title=INDIA tvg-logo=https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg, &Pictures HD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
@@ -520,18 +514,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="",CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="fRench" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn french.jpg" group-title="",CGTN (French)
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
-#EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn russian.jpg",CGTN Russian
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn spanish.jpg" group-title="news",CGTN Spain
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
@@ -540,9 +522,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745676
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="General",星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
-
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="China",TVB XING HE
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" ,民視HD
 http://seb.sason.top/ptv/ftv.php?id=ms
@@ -686,17 +665,8 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu English
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Inews.png" group-title="News",iNews
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="https://pbs.twimg.com/media/D21XsMSUcAA12NQ.jpg" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2013/01/TVRI-TV-Indonesia-Logo1.jpeg" group-title="",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://bit.ly/30EWhNZ" group-title="Indonesia", SCTV
-https://my.odtv.uk:443/9186897972/454523/895
 
 #EXTINF:-1, tvg-id=ANTV.id tvg-name=ANTV ID tvg-logo=https://i.ibb.co/tpdTH3m/antvlogo.png group-title=LOCAL, ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
@@ -704,42 +674,11 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 #EXTINF: -1 tvg-logo="https://bit.ly/3vlJCOj" group-title="INDONESIA", KOMPAS TV
 https://my.odtv.uk:443/9186897972/454523/899
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3vvJLPp" group-title="INDONESIA", INDOSIAR
-https://my.odtv.uk:443/9186897972/454523/894
-
-#EXTINF: -1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/2/24/Trans-tv-1575255.png" group-title="INDONESIA", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:0, tvg-logo=https://i.ytimg.com/vi/uKoQXLkeHZ0/hqdefault.jpg group-title=LOCAL, TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF: 1, tvg-logo=https://i.ibb.co/KzKJNMq/NETESID-S1.png group-title=LOCAL,NET.
-#http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
-https://youtu.be/bbhB7oBDulA|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/profile_images/1358658157115965441/XZIAzyrZ_400x400.jpg" group-title="News",METRO TV
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065991
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
 https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: EWTN" tvg-logo="https://static.epg.best/us/EWTN.us.png" group-title="", EWTN Asia
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="My" tvg-logo="http://masmiri.50webs.com/Miri Diocese.jpg", Miri Cathedral Mass
-https://www.youtube.com/c/SJCMiriMediaMinistry/videos|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id=" " group-title="My" tvg-logo="http://masmiri.50webs.com/St Anthony Church.jpg", St Anthony Church
-https://www.youtube.com/channel/UCQGM2o2x3BRtjJZFqCNa9Og/videos?view=2&live_view=503|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id=" " group-title="My" tvg-logo="http://masmiri.50webs.com/Mass singapore.JPG", Singapore Archdiocese
-https://www.youtube.com/c/CatholicSg/videos?view=2&amp;live_view=503|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-name=Daai TV ID tvg-logo=https://i.ibb.co/d0GbGhj/daiitvlogo.png group-title=LOCAL,DAAI大愛 INDONESIA
-http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroBOO.my" tvg-name="Astro BOO" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" tvg-url="" group-title="Malaysia",BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://dbs.radioline.fr/pictures/radio_118c60cba6326811a43249e5b2796537/logo200.jpg?size=200" group-title="Radio",Radio Hao_fm
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
@@ -752,9 +691,6 @@ http://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Aifm_logo_2017.jpg" group-title="radio",Ai_fm
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://radioonlinelive.com/wp-content/uploads/2018/08/Red-FM-Malaysia-1.jpg" group-title="radio",Kuching
-https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="MTV" tvg-logo="http://puui.qpic.cn/qqvideo_ori/0/t3224drv0jc_496_280/0", 一次就好
 https://www.youtube.com/watch?v=39v23OuSmTY&list=PLZtkj1UPIsFPYDggESIIgmNmwIroIAQcC|Referer=https://www.youtube.com
