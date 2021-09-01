@@ -101,9 +101,6 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AFqdt2K_dzMattk5HCUFAg-Iux_mv_Rx-TnlIVfQxSIMhKcloNxXDbLv_lPw73pMjkI&usqp=CAU" group-title="",ABP NEWS
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s222044d.png" group-title="", AAJ TAK TEZ
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="",Colors HD
 http://master.beeiptv.com:8081/colors/colorsbdtv/playlist.m3u8
 
@@ -113,49 +110,11 @@ https://139.99.90.11:443/9186897972/454523/26
 #EXTINF:-1 tvg-id="Suntv.my" tvg-name="Astro SunTv" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" tvg-url="" group-title="Malaysia",Astro SunTv
 http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" tvg-logo="https://static.epg.best/ru/Bollywood.ru.png"  group-title="",Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
-
-#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-country="IN" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="",Star PlusHD
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StarVijayUK.in" tvg-name="Star Vijay UK" tvg-country="IN" tvg-language="" tvg-logo="https://i.pinimg.com/originals/b9/2f/f1/b92ff1b84d93ebf4a7efb2cc87e1207e.png" group-title="",Star Vijay
-http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="zee.my" tvg-name="Astro Zee" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" tvg-url="" group-title="Malaysia", Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZLivingUSA.us" tvg-name="Z Living USA" tvg-country="US;IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ZLiving_512x512.png" group-title="",Zee Living USA
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeMusic.in" tvg-name="Zee Music" tvg-country="IN" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/ZeeMusicCo.jpg/150px-ZeeMusicCo.jpg" group-title="",Zee Music
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Zee5Romance.in" tvg-name="Zee5 Romance" tvg-country="IN" tvg-language="" tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Zee5-Logo_v02-2.jpg" group-title="",Zee5 Romance
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-country="IN" tvg-language="" tvg-logo="https://www.indianetzone.com/photos_gallery/86/Zee_Music_Indian_Music_Channel_1.jpg" group-title="",Zing TV
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTVUSAHD.in" tvg-name="Zee TV USA HD" tvg-country="IN" tvg-language="" tvg-logo="https://www.flyingcalls.com/wp-content/uploads/2012/11/zee-TV-logo.jpg" group-title="",Zee TV USA HD
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUARtO6soJKjE7nu_KrsBcTU2_wk3_G7dcar1jcT4L6mwWXw4BvRB0sS9gkcofc2xUic&usqp=CAU" group-title="",Zee World
-https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7i8h0rFsCZBOx1v-lllAZKfu0UUtjeT3Qw&usqp=CAU" group-title="MALAYSIA", ZEE Tv
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" group-title="MALAYSIA", ZEE Actions
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-
-#EXTINF:-1 group-title=INDIA tvg-logo=https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg, &Pictures HD
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png group-title=INDIA,BFlix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://cdn.dribbble.com/users/2286608/screenshots/4588936/thefashionworld.jpg" group-title="MY", Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -290,9 +249,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="Hong Kong",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN [Indonesia]" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="",AXN
-http://45.225.204.7:8000/play/a05e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKgwJZb.png?1" group-title="TV Mandarin",JIANGSU
 #http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
@@ -455,12 +411,6 @@ http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Malaysia",Astro SuperSport 4
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="France(248)",ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aemny9A.jpg" group-title="SPORTS", GOLF CHANNEL edge
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Malaysia",Tennis HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -692,8 +642,6 @@ http://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Aifm_logo_2017.jpg" group-title="radio",Ai_fm
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="MTV" tvg-logo="http://puui.qpic.cn/qqvideo_ori/0/t3224drv0jc_496_280/0", 一次就好
-https://www.youtube.com/watch?v=39v23OuSmTY&list=PLZtkj1UPIsFPYDggESIIgmNmwIroIAQcC|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://radio-online.my/assets/image/radio/180/my-fm.jpg" group-title="radio",MYFM
 https://mediaprima.rastream.com/myfm.android
